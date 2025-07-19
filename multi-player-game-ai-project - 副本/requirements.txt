@@ -1,0 +1,7 @@
+numpy>=1.21.0
+pygame>=2.0.0
+gym>=0.21.0
+matplotlib>=3.5.0
+pytest>=6.0.0
+tqdm>=4.60.0 
+tk>=0.1.0
